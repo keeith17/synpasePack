@@ -53,7 +53,13 @@ export default function Product() {
                 >
                     {name}
                 </Typography>
-                <Typography>{desc}</Typography>
+                <Typography
+                    sx={{
+                        whiteSpace: "pre-wrap",
+                    }}
+                >
+                    {desc}
+                </Typography>
             </Box>
         </Box>
     );
