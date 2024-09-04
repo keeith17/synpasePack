@@ -19,7 +19,7 @@ export default function LandingPage() {
         {
             image: "/shopack.png",
             name: "WHO",
-            desc: "누구에게 쫓기는 것일까? 헐떡이는 숨, 뇌를 지배한 공포, 치열한 생존 본능",
+            desc: "누구에게 쫓기는 것일까? 헐떡이는 숨, 뇌를 지배한 공포, 치열한 생존 본능\n어린 테라남 맨정신에 사이버웨어 뜯어 주기 ♥",
         },
         {
             image: "/synapse3.jpeg",
