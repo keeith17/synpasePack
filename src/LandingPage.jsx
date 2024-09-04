@@ -28,7 +28,7 @@ export default function LandingPage() {
                 sx={{
                     width: isSmallScreen ? "100%" : "30%",
                     height: "100%",
-                    background: "url(/background.jpeg) 50% 50% no-repeat",
+                    background: "url(/background.png) 50% 50% no-repeat",
                     backgroundSize: "cover",
                     padding: "4vh",
                     display: "flex",

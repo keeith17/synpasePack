@@ -20,7 +20,7 @@ export default function Product() {
                     width: isSmallScreen ? "100%" : "30%",
                     height: "100%",
                     background:
-                        "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/background.jpeg) 50% 50% no-repeat",
+                        "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/background.png) 50% 50% no-repeat",
                     backgroundSize: "cover",
                     padding: "4vh",
                     display: "flex",
