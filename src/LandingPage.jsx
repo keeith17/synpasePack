@@ -14,7 +14,12 @@ export default function LandingPage() {
         {
             image: "/synapse2.jpeg",
             name: "ARASAKA FOMULA ONE: 체험 삶의 현장",
-            desc: "F1 정비사와 러닝 사이보그의 익사이팅 체험기\n피트인에 주어지는 시간은 단 2.29초 ",
+            desc: "F1 정비사와 러닝 사이보그의 익사이팅 체험기\n피트인에 주어지는 시간은 단 2.29초",
+        },
+        {
+            image: "/shopack.png",
+            name: "WHO",
+            desc: "누구에게 쫓기는 것일까? 헐떡이는 숨, 뇌를 지배한 공포, 치열한 생존 본능",
         },
         {
             image: "/synapse3.jpeg",
